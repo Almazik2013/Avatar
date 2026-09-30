@@ -1,11 +1,10 @@
 header {
-  background-image: url(".");
-  height: 700px;
+  background-image: url(../img/header-background.webp);
   display: flex;
   justify-content: space-around;
   align-items: center;
   margin-bottom: 39px;
-  margin-top: 39px;
+  height: 150px;
 }
 
 ul {
@@ -42,4 +41,128 @@ li {
   padding-left: 38px;
   padding-right: 38px;
   border-radius: 35px 0px 35px 0px;
+}
+
+.section-1 {
+  display: flex;
+  justify-content: space-around;
+  background-image: url(../img/section-1-background.webp);
+  margin-top: -40px;
+  padding-top: 180px;
+  padding-bottom: 140px;
+  margin-bottom: 75px;
+}
+
+.container-section--1 {
+  width: 376px;
+}
+
+.container-i {
+  width: 5px;
+  font-size: 30px;
+  color: white;
+  margin-top: 140px;
+}
+
+.bi-youtube {
+  font-size: 40px;
+  margin-left: -10px;
+}
+
+.container-section--1 {
+  font-weight: 400;
+  font-size: 20px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+}
+
+.container-section--2 {
+  font-weight: 400;
+  font-size: 20px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  margin-bottom: 42px;
+}
+
+.button-section--1 {
+  angle: 0 deg;
+  opacity: 1;
+  top: 631px;
+  left: 204px;
+  border-top-left-radius: 45px;
+  border-bottom-right-radius: 45px;
+  background-color: #0B0E66;
+  color: #26C7EA;
+  border-color: #26C7EA;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 31px;
+  padding-right: 31px;
+  width: 270px;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 36px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: justify;
+  color: #0A3853;
+  text-align: center;
+}
+
+.title-section--2 {
+  font-weight: 400;
+  font-size: 36px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: justify;
+  color: #0A3853;
+  text-align: center;
+}
+
+.text-section--2 {
+  font-weight: 400;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #000000;
+}
+
+.bird {
+  margin-left: 420px;
+}
+
+.section-3 {
+  background-image: url(../img/section-2-background.webp);
+  height: 741px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.button-section--3 {
+  font-weight: 400;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: justify;
+  background-color: #0B0E66;
+  color: #26C7EA;
+  border: 2px solid #26C7EA;
+  padding-top: 9px;
+  padding-bottom: 7.38px;
+  padding-left: 38px;
+  padding-right: 38px;
+  border-radius: 35px 0px 35px 0px;
+  margin-top: 330px;
+  margin-left: 510px;
 }
